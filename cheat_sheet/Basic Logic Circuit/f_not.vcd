@@ -1,0 +1,27 @@
+$date
+	Tue Mar 24 19:52:43 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module f_not_tb $end
+$var wire 1 ! Q $end
+$var reg 1 " A $end
+$scope module uut $end
+$var wire 1 " A $end
+$var wire 1 ! Q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0"
+1!
+$end
+#10
+0!
+1"
+#20
